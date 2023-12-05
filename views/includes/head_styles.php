@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="<?=BASE_URL?>assets/css/styles.css?<?=TIME_UPDATE_CSS?>"/>
